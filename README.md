@@ -5,3 +5,9 @@ A Java program, complete with a map that will take the source station and the de
 The program is implemented using Graph and Heap data structures: Nodes represent stations while edges represent the distance between the two stations.
 
 Main algorithms used : Dijkstra, breadth-first search, depth-first search
+
+output: 
+enetered option: 1
+![image](https://user-images.githubusercontent.com/83425697/183745608-93772ee7-18eb-43a9-980d-55b81e67a893.png)
+
+and so on.....
